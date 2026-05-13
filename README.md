@@ -1,4 +1,4 @@
-<img width="800" height="802" alt="simplescreenrecorder-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4f44bd1d-d6f1-43a4-b9ad-a969ef42a85f" />
+<img width="800" height="802" alt="simplescreenrecorder-2-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/6e9d5f9e-80f2-481d-b739-5ce03035ffdc" />
 
 *This project has been created as part of the 42 curriculum by anrogard and kacherch.*
 
