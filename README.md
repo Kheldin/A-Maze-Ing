@@ -1,3 +1,5 @@
+<img width="800" height="802" alt="simplescreenrecorder-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4f44bd1d-d6f1-43a4-b9ad-a969ef42a85f" />
+
 *This project has been created as part of the 42 curriculum by anrogard and kacherch.*
 
 # A-Maze-ing 🌀
